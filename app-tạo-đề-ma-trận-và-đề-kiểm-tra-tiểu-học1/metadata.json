@@ -1,0 +1,6 @@
+{
+  "name": "App Tạo Đề Ma Trận và Đề Kiểm Tra Tiểu Học",
+  "description": "Hệ thống chuyên gia xây dựng ma trận, bản đặc tả chuẩn GDPT 2018 bộ sách Kết nối tri thức từ Lớp 1 đến Lớp 5, tự động sinh đề kiểm tra, đáp án và xuất Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
